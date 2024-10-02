@@ -40,7 +40,7 @@ export default function Page() {
             className='hidden md:block'
             alt="Screenshots of the bashboard project showoing desktop version"
           />
-          <Image src='/hero-mobile.png' width={560} height={620} className='md:hidden'/>
+          <Image src='/hero-mobile.png' width={560} height={620} className='block md:hidden'  alt="Screenshots of the bashboard project showoing desktop version" />
         </div>
       </div>
     </main>
